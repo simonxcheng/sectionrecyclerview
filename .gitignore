@@ -1,0 +1,14 @@
+*.ap_
+*.DS_Store
+*.idea
+/local.properties
+/libraries/
+hello.world
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+build/
